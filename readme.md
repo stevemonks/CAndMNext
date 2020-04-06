@@ -1,6 +1,8 @@
 # Cat and Mouse
 ## A simple machine code maze game by Steve Monks
 
+![](candm.JPG)
+
 # Intro
 Back in the 80's I wrote a couple of machine code games for the ZX Spectrum, these were Piggy, a game that vaguely resembled Mr. Do, written without ever having played Mr. Do (it was originally and somewhat naively called Mr. Don't, but was reworked into Piggy for a promotional tie in that ultimately fell through), and Dogsbody, a game in the vein of Boulder Dash, again, written without having ever played Boulder Dash and I dare say lacking its charm, design and ingenuity, it did at least have boulders in it, so there's that.
 
