@@ -1,0 +1,1 @@
+CSpect.exe -w3 -zxnext -nextrom -tv -mmc=C:\Emulators\CSpect\cspect-next-2gb.img -w4
